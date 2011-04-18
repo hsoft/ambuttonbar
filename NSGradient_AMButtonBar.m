@@ -4,7 +4,7 @@
 //
 //  Created by Andreas on 09.02.07.
 //  Copyright 2007 Andreas Mayer. All rights reserved.
-//  Copyright 2010 Hardcoded Software (http://www.hardcoded.net)
+//  Copyright 2011 Hardcoded Software (http://www.hardcoded.net)
 //
 
 #import "NSGradient_AMButtonBar.h"

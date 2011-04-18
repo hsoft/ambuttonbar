@@ -4,7 +4,7 @@
 //
 //  Created by Andreas on Sat Jan 17 2004.
 //  Copyright (c) 2004 Andreas Mayer. All rights reserved.
-//  Copyright 2010 Hardcoded Software (http://www.hardcoded.net)
+//  Copyright 2011 Hardcoded Software (http://www.hardcoded.net)
 //
 
 #import "NSColor_AMAdditions.h"

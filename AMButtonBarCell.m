@@ -4,7 +4,7 @@
 //
 //  Created by Andreas on 2007-02-10
 //  Copyright (c) 2004 Andreas Mayer. All rights reserved.
-//  Copyright 2010 Hardcoded Software (http://www.hardcoded.net)
+//  Copyright 2011 Hardcoded Software (http://www.hardcoded.net)
 
 // assumes a flipped control
 

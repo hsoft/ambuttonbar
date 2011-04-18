@@ -4,7 +4,7 @@
 //
 //  Created by Andreas on Sun Jan 18 2004.
 //  Copyright (c) 2004 Andreas Mayer. All rights reserved.
-//  Copyright 2010 Hardcoded Software (http://www.hardcoded.net)
+//  Copyright 2011 Hardcoded Software (http://www.hardcoded.net)
 //
 //	2005-05-23	Andreas Mayer
 //	- added -appendBezierPathWithTriangleInRect:orientation: and +bezierPathWithTriangleInRect:orientation:
